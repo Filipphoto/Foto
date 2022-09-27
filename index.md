@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Witamy na stronie
 
-You can use the [editor on GitHub](https://github.com/AuxRole/icecubeSMP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[kliknij tutuaj](https://www.facebook.com/filip.perlik.9)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Najnowsze zdjecie
 
-```markdown
-Syntax highlighted code block
+[zdjecie](https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/308487083_629576148571338_6421123497623034833_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=jZ-UU-f_dTIAX9gke6k&_nc_ht=scontent-waw1-1.xx&oh=00_AT93yZEHMRobNYIeSvlbPl2n6Nkgza6H3FTtbUnUJPUz3g&oe=63379281)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AuxRole/icecubeSMP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
